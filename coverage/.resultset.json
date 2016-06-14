@@ -1,0 +1,57 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/poscampusmm01/workspace/challenges_exercise/app/models/user.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/poscampusmm01/workspace/challenges_exercise/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/poscampusmm01/workspace/challenges_exercise/app/models/challenge.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        6,
+        null,
+        null
+      ],
+      "/Users/poscampusmm01/workspace/challenges_exercise/app/controllers/challenges_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/poscampusmm01/workspace/challenges_exercise/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ],
+      "/Users/poscampusmm01/workspace/challenges_exercise/app/models/started_challenge.rb": [
+        1,
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1465945732
+  }
+}
